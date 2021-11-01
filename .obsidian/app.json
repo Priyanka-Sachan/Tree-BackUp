@@ -1,0 +1,10 @@
+{
+  "foldHeading": true,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "promptDelete": false
+}

@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "ab9eb7477ebe04af",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9bdd199778cb414",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "@/Info.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f95b45614ecea0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "016318f8bd805d9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c43c7d4196f51f4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "52dfb65df98590aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af4d3c7d098d6db9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250
+  },
+  "right": {
+    "id": "808bd44a4ba03d66",
+    "type": "split",
+    "children": [
+      {
+        "id": "06bb843dc9f37b19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e11af8cc0d5edf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "@/Info.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6836d4f3f86b6540",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "@/Info.md"
+              }
+            }
+          },
+          {
+            "id": "74dcdd3639755bb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c62a1a7711457dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "@/Info.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb43dec30e1f5251",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249,
+    "collapsed": true
+  },
+  "active": "d9bdd199778cb414",
+  "lastOpenFiles": [
+    "@/Info.md",
+    "@/Notes.md",
+    "@/Topper's Tips.md",
+    "@/Topper Answer Booklet.md",
+    "@/Syllabus.md",
+    "@/Quotes.md",
+    "@/Detailed Syllabus by optionals.md",
+    "@/Answer Writing.md",
+    "Agriculture/_.md",
+    "Sociology/_.md"
+  ]
+}
